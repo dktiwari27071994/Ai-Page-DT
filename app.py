@@ -400,8 +400,27 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 63,
    "id": "23054e8b-cd2d-4e5d-8b81-915d6459f174",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (816941752.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[63], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    jupyter nbconvert --to script app.py.ipynb\u001b[0m\n\u001b[0m            ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "# jupyter nbconvert --to script app.py.ipynb\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2a2a8bec-37c7-4c31-8951-a13bbe2214b9",
    "metadata": {},
    "outputs": [],
    "source": []
